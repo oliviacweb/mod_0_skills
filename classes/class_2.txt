@@ -1,0 +1,26 @@
+Menu
+
+attributes:
+
+material: ('string')
+
+Font: ('string')
+
+
+widthInches: (integer)
+
+heightInches: (integer)
+
+glutenFree: (boolean)
+
+numberOfAppetizers: (integer)
+
+numberOfEntrees: (integer)
+
+Methods:
+
+makeGf (glutenFree returns true)
+
+changeFont (modify Font string)
+
+addEntree (add 1 to numberOfEntrees)

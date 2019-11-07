@@ -1,0 +1,17 @@
+4 Person Table
+
+material: 'wood'
+
+heightInches: 40
+
+widthInches: 35
+
+sturdy: true
+
+color: 'brown'
+
+legNumber: 4
+
+methods:
+shrinkTable: 40 - 5 = 35
+paintTable: 'blue'

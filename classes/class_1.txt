@@ -1,0 +1,16 @@
+Table
+
+attributes:
+material ('string')
+heightInches (integer)
+widthInches (integer)
+sturdy (boolean)
+color ('string')
+legNumber (integer)
+
+methods:
+
+paintTable: (modify color)
+collapseTable: (reduce legNumber by 1)
+makeWobble: (sturdy boolean returns false)
+shrinkTable: (heightInches - 5 )

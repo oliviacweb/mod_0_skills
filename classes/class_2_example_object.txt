@@ -1,0 +1,17 @@
+Lunch Menu
+
+material: "paper"
+font: "comic sans"
+widthInches: 12
+heightInches: 16
+glutenFree: true
+numberOfAppetizers: 4
+numberOfEntrees: 6
+
+methods:
+
+changeFont: 'times new roman'
+
+addEntree: 6 + 1 = 7
+
+makeGf: glutenFree = True
