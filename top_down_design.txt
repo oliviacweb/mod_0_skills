@@ -1,35 +1,35 @@
 1. how to become a turing student
-1.1 Decide to go to turing
-1.1.1 Research different bootcamps
-1.1.2 Narrow your search down to 4
-1.1.3 Schedule calls with different bootcamps
-1.1.4 Decide you like turing the best
-1.2 Try an intro to coding at turing
-1.2.1 Fly to Denver
-1.2.1.1 Book a flight
-1.2.1.2 fly to Denver
-1.2.1.3 stay in an airbnb
-1.2.2 go to day 1 on weekend intro
-1.2.3 go to day 2 of weekend intro
-1.3 Apply to turing
-1.3.1 complete logic assignment
-1.3.2 do live interview
-1.3.3 get accepted
-1.3.4 celebrate
-1.4 Secure financing
-1.4.1 apply for a sally mae loan
-1.4.2 get turned down for sally mae loan
-1.4.3 apply for skillfund loan
-1.4.4 get approved for skillsfund loan for tuition and housing
-1.4.5 celebrate
-1.5 Complete mod 0
-1.5.1. complete remote class
-1.5.1.1. go to all remote sessions
-1.5.1.2. do all remote hw
-1.5.2. Complete capstone mod 0
-1.6 Move to Denver
-1.6.1. Find an apartment
-1.6.1.1. Apply for apartment
-1.6.1.2. Pay first last and security
-1.6.2. Fly from Philadelphia to Denver
-1.7 Go to your first day at Turing!
+ 1.1 Decide to go to turing
+  1.1.1 Research different bootcamps
+  1.1.2 Narrow your search down to 4
+  1.1.3 Schedule calls with different bootcamps
+  1.1.4 Decide you like turing the best
+ 1.2 Try an intro to coding at turing
+  1.2.1 Fly to Denver
+   1.2.1.1 Book a flight
+   1.2.1.2 fly to Denver
+   1.2.1.3 stay in an airbnb
+  1.2.2 go to day 1 on weekend intro
+  1.2.3 go to day 2 of weekend intro
+ 1.3 Apply to turing
+  1.3.1 complete logic assignment
+  1.3.2 do live interview
+  1.3.3 get accepted
+  1.3.4 celebrate
+ 1.4 Secure financing
+  1.4.1 apply for a sally mae loan
+  1.4.2 get turned down for sally mae loan
+  1.4.3 apply for skillfund loan
+  1.4.4 get approved for skillsfund loan for tuition and housing
+  1.4.5 celebrate
+ 1.5 Complete mod 0
+  1.5.1. complete remote class
+   1.5.1.1. go to all remote sessions
+   1.5.1.2. do all remote hw
+  1.5.2. Complete capstone mod 0
+ 1.6 Move to Denver
+  1.6.1. Find an apartment
+   1.6.1.1. Apply for apartment
+   1.6.1.2. Pay first last and security
+  1.6.2. Fly from Philadelphia to Denver
+ 1.7 Go to your first day at Turing!

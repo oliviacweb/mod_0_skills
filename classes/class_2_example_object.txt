@@ -9,9 +9,10 @@ numberOfAppetizers: 4
 numberOfEntrees: 6
 
 methods:
-
-changeFont: 'times new roman'
-
+changeMaterial: "plastic"
+changeFont: "times new roman"
+widenMenu: 12 + 1 = 13
+lengthenMenu: 16 + 1 = 17
+reduceAppetizers: 4 - 1 = 3
 addEntree: 6 + 1 = 7
-
 makeGf: glutenFree = True

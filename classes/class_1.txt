@@ -1,7 +1,7 @@
 Table
 
 attributes:
-material ('string')
+material: (string)
 heightInches (integer)
 widthInches (integer)
 sturdy (boolean)
@@ -14,3 +14,5 @@ paintTable: (modify color)
 collapseTable: (reduce legNumber by 1)
 makeWobble: (sturdy boolean returns false)
 shrinkTable: (heightInches - 5 )
+widenTable: (widthInches + 5)
+rebuildTable: (modify material)
